@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#ECD3D3</color>
+    <color name="purple_500">#E86635</color>
+    <color name="purple_700">#b53809</color>
+    <color name="teal_200">#c57a5e</color>
+    <color name="teal_700">#b53809</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_gray">#ECD3D3</color>
+    <color name="light_gray">#66dddddd</color>
+    <color name="millennial_pink">#33A0D0F5</color>
+    <color name="red">#f98080</color>
+
+</resources>
